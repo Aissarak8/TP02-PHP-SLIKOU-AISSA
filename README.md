@@ -17,3 +17,20 @@ TP 02 PHP — Programmation Web 2 — 2026/2027
 - Exercice 8 : while / do-while / continue / break
 - Exercice 9 : Tableaux associatifs et foreach
 - Exercice 10 : Formulaires GET / POST
+
+## Exercice 2
+
+En PHP, les variables sont sensibles à la casse.
+Ainsi, `$note` et `$Note` sont deux variables différentes.
+
+### Noms de variables valides
+- `$a`
+- `$_a`
+- `$a_a`
+- `$AAA`
+- `$a1`
+
+### Noms de variables invalides
+- `$a!`
+- `$1a`
+
