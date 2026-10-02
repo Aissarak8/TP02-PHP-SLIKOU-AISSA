@@ -34,3 +34,12 @@ Ainsi, `$note` et `$Note` sont deux variables différentes.
 - `$a!`
 - `$1a`
 
+
+## Exercice 4
+
+Avec `echo`, la valeur `true` s'affiche comme `1`, tandis que `false` n'affiche rien.
+
+Avec `var_dump()`, PHP affiche le type et la valeur :
+- `true` donne `bool(true)`
+- `false` donne `bool(false)`
+
