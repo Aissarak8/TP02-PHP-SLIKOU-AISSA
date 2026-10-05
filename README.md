@@ -43,3 +43,18 @@ Avec `var_dump()`, PHP affiche le type et la valeur :
 - `true` donne `bool(true)`
 - `false` donne `bool(false)`
 
+
+## Exercice 5
+
+Valeurs testées et résultats obtenus :
+
+- `-1` → Note invalide
+- `9` → Non validé
+- `10` → Passable
+- `12` → Assez bien
+- `14` → Bien
+- `16` → Très bien
+- `21` → Note invalide
+
+
+
