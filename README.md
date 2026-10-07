@@ -64,3 +64,14 @@ Exemple :
 
 `ex10_get.php?nom=SLIKOU&prenom=AISSA&groupe=G3`
 
+
+## Exercice 10 - Partie B : POST
+
+Avec la méthode POST, les valeurs saisies dans le formulaire n'apparaissent pas dans l'URL.
+
+Contrairement à GET, l'URL reste généralement sous la forme :
+
+`ex10_post.php`
+
+Avec GET, les valeurs apparaissent dans l'URL après le symbole `?`.
+
