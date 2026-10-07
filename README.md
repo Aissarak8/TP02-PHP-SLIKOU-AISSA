@@ -56,5 +56,11 @@ Valeurs testées et résultats obtenus :
 - `16` → Très bien
 - `21` → Note invalide
 
+## Exercice 10 - Partie A : GET
 
+Après l'envoi du formulaire avec la méthode GET, les valeurs saisies apparaissent directement dans l'URL après le symbole `?`.
+
+Exemple :
+
+`ex10_get.php?nom=SLIKOU&prenom=AISSA&groupe=G3`
 
